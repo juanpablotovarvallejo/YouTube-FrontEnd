@@ -1,6 +1,6 @@
 # Youtube UI
 
-Youtube UI (Tab Home and Navigate) using Angular. Demo: https://juancho1502011.github.io/YouTube-FrontEnd/inicio
+Youtube UI (Tab Home and Navigate) using Angular. Demo: https://juanpablotovarvallejo.github.io/YouTube-FrontEnd/inicio
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 
